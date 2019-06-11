@@ -178,7 +178,8 @@ Key:
 | Framework | Comment |
 |-----------|---------|
 | **[Microsoft IntelliTest](https://msdn.microsoft.com/en-us/library/dn823749.aspx)** | Part of Visual Studio<br>Previously known as:<br>- [Microsoft Code Digger](https://marketplace.visualstudio.com/items?itemName=RiSEResearchinSoftwareEngineering.MicrosoftCodeDigger)<br>- [Microsoft Pex](http://research.microsoft.com/en-us/projects/pex/)<br>- [Microsoft Smart Unit Tests](http://blogs.msdn.com/b/visualstudioalm/archive/2014/11/19/introducing-smart-unit-tests.aspx)
-| [Randoop.NET](https://github.com/abb-iss/Randoop.NET)
+| [Randoop.NET](https://github.com/abb-iss/Randoop.NET) | Randoop.NET is an API fuzzing unit test generator for .NET libraries<br>
+|[sharpfuzz](https://github.com/Metalnem/sharpfuzz) | AFL (American Fuzzy Lop) -based fuzz testing for .NET<br>
 
 # Property-Based Testing
 
